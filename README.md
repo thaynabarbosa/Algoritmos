@@ -1,2 +1,2 @@
 # Algoritmos
- Algoritimos em Portugol do técnico em desenvolvimento de sistemas
+ Algoritmos em Portugol desenvolvidos no Curso Técnico em Desenvolvimento de Sistemas
